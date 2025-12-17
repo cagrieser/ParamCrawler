@@ -21,7 +21,7 @@ The primary goal is to generate highly specific, target-tailored wordlists for u
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/cagrieser/ParamCrawler.git](https://github.com/cagrieser/ParamCrawler.git)
+    git clone https://github.com/cagrieser/ParamCrawler.git
     cd ParamCrawler
     ```
 
